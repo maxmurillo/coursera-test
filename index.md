@@ -1,3 +1,2 @@
 ## Hello Coursera
-hello there sexy
-\\this be other text
+This is my page
